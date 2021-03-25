@@ -18,7 +18,7 @@ flutter:
         fileName: audioplayers_web.dart
 
 dependencies:
-  uuid: 3.0.0-nullsafety.0
+  uuid: ^3.0.1
   path_provider: ^2.0.1
   flutter:
     sdk: flutter
